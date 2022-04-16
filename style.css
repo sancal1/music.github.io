@@ -76,10 +76,10 @@ body{
   color: var(--lightblack);
 }
 .song-details .name{
-  font-size: 21px;
+  font-size: 17px;
 }
 .song-details .artist{
-  font-size: 18px;
+  font-size: 17px;
   opacity: 0.9;
   line-height: 35px;
 }
@@ -231,13 +231,13 @@ body{
   border-bottom: 0px;
 }
 .music-list ul li .row span{
-  font-size: 17px;
+  font-size: 13px;
 }
 .music-list ul li .row p{
   opacity: 0.9;
 }
 ul li .audio-duration{
-  font-size: 16px;
+  font-size: 13px;
 }
 ul li.playing{
   pointer-events: none;

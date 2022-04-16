@@ -11,124 +11,130 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
-    img: "music-1",
-    src: "music-1"
+    name: "1944 Akhiyan Milake - Rattan (1944)",
+    artist: "Zohrabai Ambalawali",
+    img: "music-1-Akhiyan-Milake-Rattan-1944",
+    src: "music-1-Akhiyan-Milake-Rattan-1944"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
-    img: "music-2",
-    src: "music-2"
+    name: "1944 Mil Ke Bichhad Gayi - Rattan (1944)",
+    artist: "Amirbai Karnataki",
+    img: "music-2-Mil-Ke-Bichhad-Gayi-Rattan-1944",
+    src: "music-2-Mil-Ke-Bichhad-Gayi-Rattan-1944"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
-    img: "music-3",
-    src: "music-3"
+    name: "1945 Is Duniya Ke Pagdandi Par - Amrapali (1945)",
+    artist: "Amirbai Karnataki",
+    img: "music-3-Is-Duniya-Ke-Pagdandi-Par-Amrapali-1945",
+    src: "music-3-Is-Duniya-Ke-Pagdandi-Par-Amrapali-1945"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
-    img: "music-4",
-    src: "music-4"
+    name: "1946 Jab Dil Hi Toot Gaya - Shahjehan (1946)",
+    artist: "Kundan Lal Saigal",
+    img: "music-4-Jab-Dil-Hi-Toot-Gaya-Shahjehan-1946",
+    src: "music-4-Jab-Dil-Hi-Toot-Gaya-Shahjehan-1946"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
-    img: "music-5",
-    src: "music-5"
+    name: "1947 Afsana Likh Rahi Hoon - Dard (1947)",
+    artist: "Uma Devi Khatri ,Tun tun",
+    img: "music-5-Afsana-Likh-Rahi-Hoon-Dard-1947",
+    src: "music-5-Afsana-Likh-Rahi-Hoon-Dard-1947"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
+    name: "1947 Haath Seene Pe -  Mirza Sahiban (1947)",
+    artist: "G M Durrani and Noor Jahan",
+    img: "music-6-Haath-Seene-Pe-Mirza-Sahiban-1947",
+    src: "music-6-Haath-Seene-Pe-Mirza-Sahiban-1947"
   },
   {
-    name: "Alan Walker - Faded",
-    artist: "ImanbekMusic",
-    img: "music-7",
-    src: "music-7"
+    name: "1947 Ham Dard Ka Afsana - Dard (1947)",
+    artist: "Shamshad Begum and Chorus",
+    img: "music-7-Ham-Dard-Ka-Afsana-Dard-1947",
+    src: "music-7-Ham-Dard-Ka-Afsana-Dard-1947"
   },
   {
-    name: "Feat.Au/Ra and Tomine Harket",
+    name: "1947 Ham Dard Ka Afsana - Dard (1947)",
     artist: "Alan Walker",
-    img: "music-8",
-    src: "music-8"
+    img: "music-8-Ham-Dard-Ka-Afsana-Dard-1947",
+    src: "music-8-Ham-Dard-Ka-Afsana-Dard-1947"
   },
   {
-    name: "MIC Drop(Steve Aoki Remix)",
+    name: "1948 Badnam Na Ho Jaye - Shaheed (1948)",
     artist: "HYBE LABELS",
-    img: "music-9",
-    src: "music-9"
+    img: "music-9-Badnam-Na-Ho-Jaye-Shaheed-1948",
+    src: "music-9-Badnam-Na-Ho-Jaye-Shaheed-1948"
   },
   {
-    name: "BTS(방탄소년단)'Butter' ",
+    name: "1948 Ek Dil Je Tukde Hazar Hue - Pyar Ki Jeet (1948)",
     artist: "HYBE LABELS",
-    img: "music-10",
-    src: "music-10"
+    img: "music-10-Ek-Dil-Je-Tukde-Hazar-Hue-Pyar-Ki-Jeet-1948",
+    src: "music-10-Ek-Dil-Je-Tukde-Hazar-Hue-Pyar-Ki-Jeet-1948"
   },
   {
-    name: "BTS(방탄소년단)'Dynamite' ",
+    name: "1948 Gam ka Fasana kisko sunaye - Mela (1948)",
     artist: "HYBE LABELS",
-    img: "music-11",
-    src: "music-11"
+    img: "music-11-Gam-ka-Fasana-kisko-sunaye-Mela-1948",
+    src: "music-11-Gam-ka-Fasana-kisko-sunaye-Mela-1948"
   },
   {
-    name: "DAOKO×Kenshi Yonezu -Fireworks",
+    name: "1948 Gaye Ja Geet Milan Ke - Mela (1948)",
     artist: "Daoko",
-    img: "music-12",
-    src: "music-12"
+    img: "music-12-Gaye-Ja-Geet-Milan-Ke-Mela-1948",
+    src: "music-12-Gaye-Ja-Geet-Milan-Ke-Mela-1948"
   },
   {
-    name: "Teri Mitti - Kesari ",
+    name: "1948 Jane Teri Nazron Ne Kya - Grihasthi (1948)",
     artist: " Zee Music Company",
-    img: "music-13",
-    src: "music-13"
+    img: "music-13-Jane-Teri-Nazron-Ne-Kya-Grihasthi-1948",
+    src: "music-13-Jane-Teri-Nazron-Ne-Kya-Grihasthi-1948"
   },
   {
-    name: "KHAIRIYAT(BONUS TRACK)-CHHICHHORE",
+    name: "1948 Main Bhanwra Too Hai Phool - Mela (1948)",
     artist: "T-Series",
-    img: "music-14",
-    src: "music-14"
+    img: "music-14-Main-Bhanwra-Too-Hai-Phool-Mela-1948",
+    src: "music-14-Main-Bhanwra-Too-Hai-Phool-Mela-1948"
   },
   {
-    name: "Waka Waka(This Time for Africa)",
+    name: "1948 Pardes Balam Tum Jaoge - Mela (1948)",
     artist: "Shakira",
-    img: "music-15",
-    src: "music-15"
+    img: "music-15-Pardes-Balam-Tum-Jaoge-Mela-1948",
+    src: "music-15-Pardes-Balam-Tum-Jaoge-Mela-1948"
   },
   {
-    name: "Phao-2 Phut Hon(KAIZ Remix)",
+    name: "1948 Tere Nainon Ne Chori Kiya - Pyaar ki jeet (1948)",
     artist: "Light Night Music",
-    img: "music-16",
-    src: "music-16"
+    img: "music-16-Tere-Nainon-Ne-Chori-Kiya-Pyaar-ki-jeet-1948",
+    src: "music-16-Tere-Nainon-Ne-Chori-Kiya-Pyaar-ki-jeet-1948"
   },
   {
-    name: "スパークル - Your name",
+    name: "1948 Yeh Zindagi Ke Mele - Mela (1948)",
     artist: "Radwimps",
-    img: "music-17",
-    src: "music-17"
+    img: "music-17-Yeh-Zindagi-Ke-Mele-Mela-1948",
+    src: "music-17-Yeh-Zindagi-Ke-Mele-Mela-1948"
   },
   {
-    name: "Ed Sheeran - Shape of You",
+    name: "1948 Zara Dekh Sanam - Grihasthi (1948)",
     artist: "Ed Sheeran",
-    img: "music-18",
-    src: "music-18"
+    img: "music-18-Zara-Dekh-Sanam-Grihasthi-1948",
+    src: "music-18-Zara-Dekh-Sanam-Grihasthi-1948"
   },
   {
-    name: "Sia - Unstoppable ",
+    name: "1949 Barsaat  Mein - Barsaat (1949)",
     artist: "Loku",
-    img: "music-19",
-    src: "music-19"
+    img: "music-19-Barsaat-Mein-Barsaat-1949",
+    src: "music-19-Barsaat-Mein-Barsaat-1949"
   },
   {
-    name: "Bhaag Milkha Bhaag - Zinda ",
+    name: "1949 Bichde Hoye Pardesi - Barsaat (1949)",
     artist: "SonyMusicIndiaVEVO",
-    img: "music-20",
-    src: "music-20"
+    img: "music-20-Bichde-Hoye-Pardesi-Barsaat-1949",
+    src: "music-20-Bichde-Hoye-Pardesi-Barsaat-1949"
+  },
+  {
+    name: "1949 Bigadi Bananewale - Badi Bahen (1949)",
+    artist: "SonyMusicIndiaVEVO",
+    img: "music-21-Bigadi-Bananewale-Badi-Bahen-1949",
+    src: "music-21-Bigadi-Bananewale-Badi-Bahen-1949"
   },
 
 
